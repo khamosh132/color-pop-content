@@ -1,0 +1,354 @@
+{
+  "schema": 1,
+  "categories": [
+    {
+      "id": "animals",
+      "label": "Animals",
+      "icon": "pets"
+    },
+    {
+      "id": "ocean",
+      "label": "Ocean",
+      "icon": "water"
+    },
+    {
+      "id": "winter",
+      "label": "Winter",
+      "icon": "ac_unit"
+    },
+    {
+      "id": "magic",
+      "label": "Magic",
+      "icon": "auto_awesome"
+    },
+    {
+      "id": "go",
+      "label": "Let's Go",
+      "icon": "directions_car"
+    },
+    {
+      "id": "space",
+      "label": "Space",
+      "icon": "rocket_launch"
+    },
+    {
+      "id": "yummy",
+      "label": "Yummy",
+      "icon": "cake"
+    },
+    {
+      "id": "outdoors",
+      "label": "Outdoors",
+      "icon": "park"
+    },
+    {
+      "id": "mandala",
+      "label": "Mandalas",
+      "icon": "blur_circular"
+    }
+  ],
+  "pages": [
+    {
+      "id": "cat",
+      "title": "Kitty",
+      "category": "animals",
+      "free": true,
+      "rev": "236e1605df",
+      "file": "pages/cat.png"
+    },
+    {
+      "id": "dog",
+      "title": "Puppy",
+      "category": "animals",
+      "free": true,
+      "rev": "38ba26f881",
+      "file": "pages/dog.png"
+    },
+    {
+      "id": "bunny",
+      "title": "Bunny",
+      "category": "animals",
+      "free": true,
+      "rev": "2a3dd7019f",
+      "file": "pages/bunny.png"
+    },
+    {
+      "id": "lion",
+      "title": "Lion",
+      "category": "animals",
+      "free": true,
+      "rev": "74ad569f31",
+      "file": "pages/lion.png"
+    },
+    {
+      "id": "elephant",
+      "title": "Elephant",
+      "category": "animals",
+      "free": true,
+      "rev": "f7eacd1535",
+      "file": "pages/elephant.png"
+    },
+    {
+      "id": "owl",
+      "title": "Owl",
+      "category": "animals",
+      "free": true,
+      "rev": "c25520b8dd",
+      "file": "pages/owl.png"
+    },
+    {
+      "id": "turtle",
+      "title": "Turtle",
+      "category": "animals",
+      "free": true,
+      "rev": "dd1cd5bac3",
+      "file": "pages/turtle.png"
+    },
+    {
+      "id": "butterfly",
+      "title": "Butterfly",
+      "category": "animals",
+      "free": true,
+      "rev": "0ab34a4672",
+      "file": "pages/butterfly.png"
+    },
+    {
+      "id": "whale",
+      "title": "Whale",
+      "category": "ocean",
+      "free": true,
+      "rev": "153f0be411",
+      "file": "pages/whale.png"
+    },
+    {
+      "id": "octopus",
+      "title": "Octopus",
+      "category": "ocean",
+      "free": true,
+      "rev": "65f69b383f",
+      "file": "pages/octopus.png"
+    },
+    {
+      "id": "fish",
+      "title": "Fish",
+      "category": "ocean",
+      "free": true,
+      "rev": "854311a88c",
+      "file": "pages/fish.png"
+    },
+    {
+      "id": "crab",
+      "title": "Crab",
+      "category": "ocean",
+      "free": true,
+      "rev": "80528c4548",
+      "file": "pages/crab.png"
+    },
+    {
+      "id": "penguin",
+      "title": "Penguin",
+      "category": "winter",
+      "free": true,
+      "new": true,
+      "rev": "96a731ad24",
+      "file": "pages/penguin.png"
+    },
+    {
+      "id": "polarbear",
+      "title": "Polar Bear",
+      "category": "winter",
+      "free": true,
+      "new": true,
+      "rev": "d79b1ef2e0",
+      "file": "pages/polarbear.png"
+    },
+    {
+      "id": "fox",
+      "title": "Snow Fox",
+      "category": "winter",
+      "free": true,
+      "new": true,
+      "rev": "c4af6e0e54",
+      "file": "pages/fox.png"
+    },
+    {
+      "id": "igloo",
+      "title": "Igloo",
+      "category": "winter",
+      "free": true,
+      "new": true,
+      "rev": "c7eafafef9",
+      "file": "pages/igloo.png"
+    },
+    {
+      "id": "cocoa",
+      "title": "Hot Cocoa",
+      "category": "winter",
+      "free": true,
+      "new": true,
+      "rev": "20e00c2810",
+      "file": "pages/cocoa.png"
+    },
+    {
+      "id": "snowflake",
+      "title": "Snowflake",
+      "category": "winter",
+      "free": true,
+      "new": true,
+      "rev": "71796ec23a",
+      "file": "pages/snowflake.png"
+    },
+    {
+      "id": "unicorn",
+      "title": "Unicorn",
+      "category": "magic",
+      "free": true,
+      "rev": "983443d2a6",
+      "file": "pages/unicorn.png"
+    },
+    {
+      "id": "dino",
+      "title": "Dino",
+      "category": "magic",
+      "free": true,
+      "rev": "19f4ea1cbc",
+      "file": "pages/dino.png"
+    },
+    {
+      "id": "castle",
+      "title": "Castle",
+      "category": "magic",
+      "free": true,
+      "rev": "7de9be03a6",
+      "file": "pages/castle.png"
+    },
+    {
+      "id": "car",
+      "title": "Car",
+      "category": "go",
+      "free": true,
+      "rev": "efb7383735",
+      "file": "pages/car.png"
+    },
+    {
+      "id": "train",
+      "title": "Train",
+      "category": "go",
+      "free": true,
+      "rev": "6580ed2624",
+      "file": "pages/train.png"
+    },
+    {
+      "id": "sailboat",
+      "title": "Sailboat",
+      "category": "go",
+      "free": true,
+      "rev": "ca7df15865",
+      "file": "pages/sailboat.png"
+    },
+    {
+      "id": "rocket",
+      "title": "Rocket",
+      "category": "space",
+      "free": true,
+      "rev": "d6dc5dba7a",
+      "file": "pages/rocket.png"
+    },
+    {
+      "id": "ufo",
+      "title": "UFO",
+      "category": "space",
+      "free": true,
+      "rev": "76e3a9471c",
+      "file": "pages/ufo.png"
+    },
+    {
+      "id": "robot",
+      "title": "Robot",
+      "category": "space",
+      "free": true,
+      "rev": "162ecff08b",
+      "file": "pages/robot.png"
+    },
+    {
+      "id": "cupcake",
+      "title": "Cupcake",
+      "category": "yummy",
+      "free": true,
+      "rev": "9d1988c58f",
+      "file": "pages/cupcake.png"
+    },
+    {
+      "id": "icecream",
+      "title": "Ice Cream",
+      "category": "yummy",
+      "free": true,
+      "rev": "d7926a39c7",
+      "file": "pages/icecream.png"
+    },
+    {
+      "id": "donut",
+      "title": "Donut",
+      "category": "yummy",
+      "free": true,
+      "rev": "7518c5d96d",
+      "file": "pages/donut.png"
+    },
+    {
+      "id": "house",
+      "title": "House",
+      "category": "outdoors",
+      "free": true,
+      "rev": "438f5ba15e",
+      "file": "pages/house.png"
+    },
+    {
+      "id": "flowers",
+      "title": "Flowers",
+      "category": "outdoors",
+      "free": true,
+      "rev": "d6912fda36",
+      "file": "pages/flowers.png"
+    },
+    {
+      "id": "snowman",
+      "title": "Snowman",
+      "category": "outdoors",
+      "free": true,
+      "rev": "6dfc8f0684",
+      "file": "pages/snowman.png"
+    },
+    {
+      "id": "mandala_flower",
+      "title": "Flower Mandala",
+      "category": "mandala",
+      "free": true,
+      "rev": "d468737e63",
+      "file": "pages/mandala_flower.png"
+    },
+    {
+      "id": "mandala_star",
+      "title": "Star Mandala",
+      "category": "mandala",
+      "free": true,
+      "rev": "89c3a90bcd",
+      "file": "pages/mandala_star.png"
+    },
+    {
+      "id": "mandala_hearts",
+      "title": "Heart Mandala",
+      "category": "mandala",
+      "free": true,
+      "rev": "c4330c41ac",
+      "file": "pages/mandala_hearts.png"
+    },
+    {
+      "id": "mandala_geo",
+      "title": "Shape Mandala",
+      "category": "mandala",
+      "free": true,
+      "rev": "a5fd60e9c5",
+      "file": "pages/mandala_geo.png"
+    }
+  ]
+}
