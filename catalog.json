@@ -2,6 +2,11 @@
   "schema": 1,
   "categories": [
     {
+      "id": "ramadan",
+      "label": "Ramadan & Eid",
+      "icon": "nightlight"
+    },
+    {
       "id": "animals",
       "label": "Animals",
       "icon": "pets"
@@ -349,6 +354,51 @@
       "free": true,
       "rev": "a5fd60e9c5",
       "file": "pages/mandala_geo.png"
+    },
+    {
+      "id": "moon",
+      "title": "Happy Moon",
+      "category": "ramadan",
+      "free": true,
+      "new": true,
+      "rev": "8973d5f6d8",
+      "file": "pages/moon.png"
+    },
+    {
+      "id": "lantern",
+      "title": "Lantern",
+      "category": "ramadan",
+      "free": true,
+      "new": true,
+      "rev": "2c9eab2e4c",
+      "file": "pages/lantern.png"
+    },
+    {
+      "id": "mosque",
+      "title": "Mosque",
+      "category": "ramadan",
+      "free": true,
+      "new": true,
+      "rev": "f545db274a",
+      "file": "pages/mosque.png"
+    },
+    {
+      "id": "dates",
+      "title": "Bowl of Dates",
+      "category": "ramadan",
+      "free": true,
+      "new": true,
+      "rev": "a803d65ce9",
+      "file": "pages/dates.png"
+    },
+    {
+      "id": "gift",
+      "title": "Eid Gift",
+      "category": "ramadan",
+      "free": true,
+      "new": true,
+      "rev": "8a8fd1450e",
+      "file": "pages/gift.png"
     }
   ]
 }
