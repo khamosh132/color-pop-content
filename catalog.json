@@ -50,6 +50,41 @@
       "id": "mandala",
       "label": "Mandalas",
       "icon": "blur_circular"
+    },
+    {
+      "id": "dino",
+      "label": "Dino World",
+      "icon": "egg"
+    },
+    {
+      "id": "farm",
+      "label": "Farm Friends",
+      "icon": "agriculture"
+    },
+    {
+      "id": "friends",
+      "label": "Friends",
+      "icon": "celebration"
+    }
+  ],
+  "packs": [
+    {
+      "id": "dino",
+      "title": "Dino World",
+      "product": "pack_dino",
+      "price": "$1.99",
+      "category": "dino",
+      "pages": 5,
+      "preview": "previews/dino.png"
+    },
+    {
+      "id": "farm",
+      "title": "Farm Friends",
+      "product": "pack_farm",
+      "price": "$1.99",
+      "category": "farm",
+      "pages": 5,
+      "preview": "previews/farm.png"
     }
   ],
   "pages": [
@@ -399,6 +434,250 @@
       "new": true,
       "rev": "8a8fd1450e",
       "file": "pages/gift.png"
+    },
+    {
+      "id": "trex",
+      "title": "T-Rex",
+      "category": "dino",
+      "free": false,
+      "pack": "dino",
+      "new": true,
+      "rev": "9d7cbfc13a",
+      "file": "paid/dino/trex.png"
+    },
+    {
+      "id": "triceratops",
+      "title": "Triceratops",
+      "category": "dino",
+      "free": false,
+      "pack": "dino",
+      "new": true,
+      "rev": "095e6c609e",
+      "file": "paid/dino/triceratops.png"
+    },
+    {
+      "id": "stego",
+      "title": "Stegosaurus",
+      "category": "dino",
+      "free": false,
+      "pack": "dino",
+      "new": true,
+      "rev": "f36b42e3e3",
+      "file": "paid/dino/stego.png"
+    },
+    {
+      "id": "longneck",
+      "title": "Long Neck",
+      "category": "dino",
+      "free": false,
+      "pack": "dino",
+      "new": true,
+      "rev": "c106096a39",
+      "file": "paid/dino/longneck.png"
+    },
+    {
+      "id": "dinoegg",
+      "title": "Dino Egg",
+      "category": "dino",
+      "free": false,
+      "pack": "dino",
+      "new": true,
+      "rev": "d805c16b36",
+      "file": "paid/dino/dinoegg.png"
+    },
+    {
+      "id": "cow",
+      "title": "Cow",
+      "category": "farm",
+      "free": false,
+      "pack": "farm",
+      "new": true,
+      "rev": "d4465c4cda",
+      "file": "paid/farm/cow.png"
+    },
+    {
+      "id": "pig",
+      "title": "Piggy",
+      "category": "farm",
+      "free": false,
+      "pack": "farm",
+      "new": true,
+      "rev": "98e7b8c6d9",
+      "file": "paid/farm/pig.png"
+    },
+    {
+      "id": "sheep",
+      "title": "Sheep",
+      "category": "farm",
+      "free": false,
+      "pack": "farm",
+      "new": true,
+      "rev": "34d2cf0fb4",
+      "file": "paid/farm/sheep.png"
+    },
+    {
+      "id": "chicken",
+      "title": "Chicken",
+      "category": "farm",
+      "free": false,
+      "pack": "farm",
+      "new": true,
+      "rev": "32cac7ed8f",
+      "file": "paid/farm/chicken.png"
+    },
+    {
+      "id": "barn",
+      "title": "Big Red Barn",
+      "category": "farm",
+      "free": false,
+      "pack": "farm",
+      "new": true,
+      "rev": "4be47679d3",
+      "file": "paid/farm/barn.png"
+    },
+    {
+      "id": "police_dog",
+      "title": "Police Dog",
+      "category": "animals",
+      "free": true,
+      "new": true,
+      "rev": "bc826f3420",
+      "file": "pages/police_dog.png"
+    },
+    {
+      "id": "bull",
+      "title": "Bull",
+      "category": "animals",
+      "free": true,
+      "new": true,
+      "rev": "d1ffc971b6",
+      "file": "pages/bull.png"
+    },
+    {
+      "id": "kitten_ball",
+      "title": "Kitten and Ball",
+      "category": "animals",
+      "free": true,
+      "new": true,
+      "rev": "9992e3253c",
+      "file": "pages/kitten_ball.png"
+    },
+    {
+      "id": "funny_cat",
+      "title": "Funny Cat",
+      "category": "animals",
+      "free": true,
+      "new": true,
+      "rev": "c2cc656f61",
+      "file": "pages/funny_cat.png"
+    },
+    {
+      "id": "baby_elephant",
+      "title": "Baby Elephant",
+      "category": "animals",
+      "free": true,
+      "new": true,
+      "rev": "ea6204d153",
+      "file": "pages/baby_elephant.png"
+    },
+    {
+      "id": "teddy_bear",
+      "title": "Teddy Bear",
+      "category": "animals",
+      "free": true,
+      "new": true,
+      "rev": "94a31d6784",
+      "file": "pages/teddy_bear.png"
+    },
+    {
+      "id": "monkey_and_butterfly",
+      "title": "Monkey and Butterfly",
+      "category": "animals",
+      "free": true,
+      "new": true,
+      "rev": "478c2e849f",
+      "file": "pages/monkey_and_butterfly.png"
+    },
+    {
+      "id": "baby_turtle",
+      "title": "Baby Turtle",
+      "category": "ocean",
+      "free": true,
+      "new": true,
+      "rev": "4e2fdc3611",
+      "file": "pages/baby_turtle.png"
+    },
+    {
+      "id": "clown_car",
+      "title": "Clown Car",
+      "category": "go",
+      "free": true,
+      "new": true,
+      "rev": "a5c1e78ece",
+      "file": "pages/clown_car.png"
+    },
+    {
+      "id": "airplane",
+      "title": "Airplane",
+      "category": "go",
+      "free": true,
+      "new": true,
+      "rev": "9df2a4dffd",
+      "file": "pages/airplane.png"
+    },
+    {
+      "id": "cherries",
+      "title": "Cherries",
+      "category": "yummy",
+      "free": true,
+      "new": true,
+      "rev": "321e503e8f",
+      "file": "pages/cherries.png"
+    },
+    {
+      "id": "rose",
+      "title": "Rose",
+      "category": "outdoors",
+      "free": true,
+      "new": true,
+      "rev": "3c899e0fda",
+      "file": "pages/rose.png"
+    },
+    {
+      "id": "autumn_leaves",
+      "title": "Autumn Leaves",
+      "category": "outdoors",
+      "free": true,
+      "new": true,
+      "rev": "f9e4f5427f",
+      "file": "pages/autumn_leaves.png"
+    },
+    {
+      "id": "friendly_ghost",
+      "title": "Friendly Ghost",
+      "category": "magic",
+      "free": true,
+      "new": true,
+      "rev": "9e295232bc",
+      "file": "pages/friendly_ghost.png"
+    },
+    {
+      "id": "ballerina",
+      "title": "Ballerina",
+      "category": "friends",
+      "free": true,
+      "new": true,
+      "rev": "1a0135627b",
+      "file": "pages/ballerina.png"
+    },
+    {
+      "id": "walking_dog",
+      "title": "Walking the Dog",
+      "category": "friends",
+      "free": true,
+      "new": true,
+      "rev": "00b2d3f1cb",
+      "file": "pages/walking_dog.png"
     }
   ]
 }
